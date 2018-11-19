@@ -1,0 +1,30 @@
+{
+  "name": "editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TinymceEditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutwenty/Editor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cutwenty/Editor/issues"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-react": "^2.2.6",
+    "antd": "^3.10.0",
+    "classnames": "^2.2.6",
+    "lodash": "^4.17.10",
+    "lodash-decorators": "^6.0.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-loadable": "^5.4.0"
+  },
+  "homepage": "https://github.com/cutwenty/Editor#readme"
+}
